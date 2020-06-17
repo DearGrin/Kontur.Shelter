@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe788da64ee57e4381b032f87fd3a37, type: 3}
+  m_Name: IT
+  m_EditorClassIdentifier: 
+  label: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0438"
+  descripton:
+  - "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0442 200 \u043F\u0440\u043E\u0434\u0443\u043A\u0442\u0430.
+    \u0421\u043E\u0437\u0434\u0430\u044E\u0442 \u043F\u0440\u043E\u0434\u0443\u043A\u0442,
+    \u043E\u0441\u043D\u043E\u0432\u0443 \u041A\u043E\u043D\u0442\u0443\u0440\u0430.
+    \u0421\u043B\u043E\u0436\u043D\u043E \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u044C
+    \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043D\u0438\u0435
+    \u041A\u043E\u043D\u0442\u0443\u0440\u0430 \u0431\u0435\u0437 \u043D\u0438\u0445,
+    \u043D\u0443\u0436\u0434\u0430\u044E\u0442\u0441\u044F \u0432\u043E \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u0438,
+    \u0437\u0430\u0431\u043E\u0442\u0435 \u0438 \u043A\u043E\u0444\u0435."
+  - "\u041E\u0431\u043D\u043E\u0432\u0438\u043B\u0438 \u0436\u0435\u043B\u0435\u0437\u043E
+    \u0438 \u0442\u0430\u043F\u043E\u0447\u043A\u0438. \u0415\u0449\u0435 200 \u043F\u0440\u043E\u0434\u0443\u043A\u0442\u0430."
+  - "\u041A\u0440\u0443\u0436\u043A\u0438 \u0438\u0437 \u043F\u043E\u0434 \u043A\u043E\u0444\u0435
+    \u0442\u0435\u043B\u0435\u043F\u043E\u0440\u0442\u0438\u0440\u0443\u044E\u0442\u0441\u044F
+    \u043D\u0430 \u043A\u0443\u0445\u043D\u044E \u0441\u0430\u043C\u0438. \u0423\u0431\u0440\u0430\u043B\u0438
+    \u043B\u0438\u0448\u043D\u044E\u044E \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u044E
+    - \u0432\u0441\u0435 \u0441\u0447\u0430\u0441\u0442\u043B\u0438\u0432\u044B. \u0415\u0449\u0435
+    250 \u043F\u0440\u043E\u0434\u0443\u043A\u0442\u0430."
+  resourceType: product
+  roomIndex: 4
+  animationIndex: 190000001a0000001b000000
+  lvl: 0
+  resource: c80000009001000058020000
+  productConsume: 000000000000000000000000
+  happiness: fbfffffffbfffffffbffffff
+  taxes: 0f0000001e0000003c000000
+  productionTime: 460000004600000046000000
+  buildCost: 2c0100005802000084030000
+  moneyMulti:
+  - 1
+  - 1
+  - 1
+  timeMulti:
+  - 1
+  - 1
+  - 1
+  eventMulti:
+  - 1
+  - 1
+  - 1
+  taxMulti:
+  - 1
+  - 1
+  - 1
+  localProductMulti:
+  - 1
+  - 1
+  - 1
+  localMoneyMulti:
+  - 1
+  - 1
+  - 1
+  localSupportMulti:
+  - 1
+  - 1
+  - 1
+  image:
+  - {fileID: 21300000, guid: 01b8f705e9b43a346b21eacd16d37810, type: 3}
+  - {fileID: 21300000, guid: 1cfd02f2e1d78224097acd40ed36f2b5, type: 3}
+  - {fileID: 21300000, guid: 6a1ffc839a882854c951456f4c9291fa, type: 3}

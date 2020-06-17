@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe788da64ee57e4381b032f87fd3a37, type: 3}
+  m_Name: Lawyer
+  m_EditorClassIdentifier: 
+  label: "\u042E\u0440\u0438\u0441\u0442\u044B"
+  descripton:
+  - "\u0421\u043D\u0438\u0436\u0430\u044E\u0442 \u0448\u0430\u043D\u0441 \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u044B\u0445
+    \u043D\u0435\u0433\u0430\u0442\u0438\u0432\u043D\u044B\u0445 \u0441\u043E\u0431\u044B\u0442\u0438\u0439
+    \u043D\u0430 10%. \u0414\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0442
+    \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\u043C,
+    \u0420\u043E\u0441\u043A\u043E\u043C\u043D\u0430\u0434\u0437\u043E\u0440\u0443
+    \u0438 \u043A\u043E\u043D\u0441\u0443\u043B\u044C\u0442\u0430\u043D\u0442\u0430\u043C.
+    \u041E \u043D\u0438\u0445 \u043E\u0431\u044B\u0447\u043D\u043E \u043D\u0438\u0447\u0435\u0433\u043E
+    \u043D\u0435 \u0441\u043B\u044B\u0448\u043D\u043E, \u043D\u043E \u0432 \u043B\u044E\u0431\u043E\u0439
+    \u043A\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438
+    \u043E\u043D\u0438 \u0437\u0434\u0435\u0441\u044C, \u043A\u0430\u043A \u0411\u044D\u0442\u043C\u0435\u043D
+    \u0438 \u0420\u043E\u0431\u0438\u043D."
+  - "\u0421\u0434\u0435\u043B\u0430\u043B\u0438 \u041A\u043E\u043D\u0442\u0443\u0440
+    \u0422\u0430\u043A\u0441\u0438 \u0434\u043E \u041F\u0435\u0440\u043C\u0438. \u0422\u0435\u043F\u0435\u0440\u044C
+    \u0432 \u0430\u0440\u0431\u0438\u0442\u0440\u0430\u0436\u043D\u044B\u0439 \u0441\u0443\u0434
+    - \u0441 \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u043C
+    \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u043E\u043C. \u0415\u0449\u0435 10%."
+  - "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u043B\u0438 \u0445\u043E\u0434\u0438\u0442\u044C
+    \u043A \u043A\u043E\u043D\u0441\u0443\u043B\u044C\u0442\u0430\u043D\u0442\u0430\u043C
+    \u0434\u043E \u0433\u0440\u0443\u0448\u0438. \u0415\u0449\u0435 10%."
+  resourceType: multi
+  roomIndex: 6
+  animationIndex: 220000002300000024000000
+  lvl: 0
+  resource: 000000000000000000000000
+  productConsume: 000000000000000000000000
+  happiness: fbfffffffbfffffffbffffff
+  taxes: 0a000000140000001e000000
+  productionTime: 000000000000000000000000
+  buildCost: 96000000fa00000090010000
+  moneyMulti:
+  - 1
+  - 1
+  - 1
+  timeMulti:
+  - 1
+  - 1
+  - 1
+  eventMulti:
+  - 1.1
+  - 1.1
+  - 1.1
+  taxMulti:
+  - 1
+  - 1
+  - 1
+  localProductMulti:
+  - 1
+  - 1
+  - 1
+  localMoneyMulti:
+  - 1
+  - 1
+  - 1
+  localSupportMulti:
+  - 1
+  - 1
+  - 1
+  image:
+  - {fileID: 21300000, guid: d62a2c546ade2734d88088a926091276, type: 3}
+  - {fileID: 21300000, guid: 95d81ecc9be03a041bac4c9301119ba7, type: 3}
+  - {fileID: 21300000, guid: ccda715bbee5f15428198c8c9fd35e77, type: 3}

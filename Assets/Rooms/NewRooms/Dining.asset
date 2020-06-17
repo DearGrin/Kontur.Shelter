@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe788da64ee57e4381b032f87fd3a37, type: 3}
+  m_Name: Dining
+  m_EditorClassIdentifier: 
+  label: "\u0421\u0442\u043E\u043B\u043E\u0432\u0430\u044F"
+  descripton:
+  - "\u041F\u043E\u0432\u044B\u0448\u0430\u0435\u0442 \u0441\u0447\u0430\u0441\u0442\u044C\u0435
+    \u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A\u043E\u0432 \u043D\u0430
+    20. \u0427\u0430\u0439, \u043A\u043E\u0444\u0435, \u0444\u0440\u0443\u043A\u0442\u044B,
+    \u043E\u0432\u043E\u0449\u0438, \u0443\u044E\u0442. \u0416\u0430\u043B\u044C \u0442\u043E\u043B\u044C\u043A\u043E
+    \u0440\u044B\u0431\u0443 \u0438 \u043C\u044F\u0441\u043E \u043D\u0435 \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u044E\u0442. "
+  - "\u041D\u0443\u0436\u043D\u043E \u0431\u043E\u043B\u044C\u0448\u0435 \u043A\u043E\u0444\u0435\u043C\u0430\u0448\u0438\u043D!
+    +20 \u0441\u0447\u0430\u0441\u0442\u044C\u044F."
+  - "\u0411\u0430\u0440\u0438\u0441\u0442\u0430 \u043D\u0430 \u043A\u0430\u0436\u0434\u043E\u0439
+    \u043A\u0443\u0445\u043D\u0435 \u0432 \u0443\u0442\u0440\u0435\u043D\u043D\u0438\u0435
+    \u0438 \u0432\u0435\u0447\u0435\u0440\u043D\u0438\u0435 \u0447\u0430\u0441\u044B.
+    \u041B\u0430\u0432\u0430\u043D\u0434\u043E\u0432\u044B\u0439 \u0440\u0430\u0444,
+    \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430. +20 \u0441\u0447\u0430\u0441\u0442\u044C\u044F."
+  resourceType: happy
+  roomIndex: 2
+  animationIndex: 1c0000001d0000001e000000
+  lvl: 0
+  resource: 000000000000000000000000
+  productConsume: 000000000000000000000000
+  happiness: 140000001400000014000000
+  taxes: 0a000000140000001e000000
+  productionTime: 000000000000000000000000
+  buildCost: 64000000af0000005e010000
+  moneyMulti:
+  - 1
+  - 1
+  - 1
+  timeMulti:
+  - 1
+  - 1
+  - 1
+  eventMulti:
+  - 1
+  - 1
+  - 1
+  taxMulti:
+  - 1
+  - 1
+  - 1
+  localProductMulti:
+  - 1
+  - 1
+  - 1
+  localMoneyMulti:
+  - 1
+  - 1
+  - 1
+  localSupportMulti:
+  - 1
+  - 1
+  - 1
+  image:
+  - {fileID: 21300000, guid: eaf705527966db84da6021a50630b714, type: 3}
+  - {fileID: 21300000, guid: 145278fc8fc6ab84d99aa9327999e26b, type: 3}
+  - {fileID: 21300000, guid: 2e70fa486b06469409413bf0f6d12afd, type: 3}
